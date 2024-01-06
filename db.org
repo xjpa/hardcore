@@ -1,0 +1,15 @@
+* book
+** [[https://github.com/pdm-book/community][Principles of Databases]]
+A Database theory book
+* course
+** [[https://www.youtube.com/@CMUDatabaseGroup/playlists][CMU Database Lectures]]
+** [[https://www.udemy.com/course/database-engines-crash-course/][Database Engines Crash Course]]
+** [[https://github.com/pingcap/talent-plan][PingCap Talent Plan]]
+* db internals
+** [[https://www.interdb.jp/pg/][Internals of PostgreSQL]]
+** [[https://www.amazon.com/Database-Design-Implementation-Data-Centric-Applications-ebook/dp/B085DZM79S][Database Design and Implementation]]
+** [[https://cstack.github.io/db_tutorial/][Let's Build a Simple Database]]
+** [[https://skyzh.github.io/mini-lsm/][LSM in a Week]]
+** [[https://howqueryengineswork.com/][How Query Engines Work]]
+* kv
+** [[https://stratos.seas.harvard.edu/files/stratos/files/keyvaluestorageengines.pdf][Key-Value Storage Engines]]
