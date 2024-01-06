@@ -1,0 +1,11 @@
+* System Design
+** [[https://muratbuffalo.blogspot.com/2016/11/why-does-cloud-stop-computing-lessons.html][Paper Review: Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages]]
+** [[https://pld.ttu.ee/IAF0030/Paper_4.pdf][A SURVEY OF SOFTWARE FAULT TOLERANCE TECHNIQUES]]
+** [[https://crystal.uta.edu/~kumar/cse6306/papers/FaultTolerantDistComp.pdf][Fault Tolerant Distributed Computing]]
+* Recovery Oriented Computing et al
+A way to think about fault tolerance
+** [[http://roc.cs.berkeley.edu/][The Berkeley/Stanford Recovery-Oriented Computing (ROC) Project]]
+** [[https://en.wikipedia.org/wiki/Recovery-oriented_computing][Recovery-oriented computing]] (wikipedia article)
+** [[https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf][On Designing and Deploying Internet-Scale Services]] by one of Amazon's Distinguished Engineers
+** [[https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html][AWS Reliability Pillar]] ([[https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf][PDF]]) of the [[https://aws.amazon.com/architecture/well-architected/][AWS Well-Architected]] Framework
+** [[https://zachholman.com/talk/how-to-build-a-github/][How to Build a Github]] talk from one of the early GitHub engineers

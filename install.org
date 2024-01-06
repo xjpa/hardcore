@@ -1,6 +1,6 @@
-# mysql
+* mySQL
 
-```
+#+BEGIN_SRC terminal
 $ brew install mysql
 
 $ brew services start mysql
@@ -8,4 +8,4 @@ $ brew services start mysql
 $ mysql_secure_installation
 
 $ brew install --cask mysqlworkbench
-```
+#+END_SRC

@@ -1,5 +1,7 @@
-```
+* Build
+
+#+BEGIN_SRC terminal
 g++ *.cpp -o xyz
-```
+#+END_SRC
 
 - Build all cpp files in the current directory and output an executable binary called xyz
